@@ -24,23 +24,7 @@ The platform pairs an elegant, immersive shopping experience with a complete adm
 
 > Developed as the Web Development Project at **Imam Abdulrahman Bin Faisal University**, College of Science and Humanities – Jubail, Computer Science Department (2026).
 
----
 
-## 🌸 Screenshots
-
-<div align="center">
-
-| Homepage | Collections |
-|:---:|:---:|
-| <img src="screenshots/home.png" width="400"> | <img src="screenshots/collections.png" width="400"> |
-| **Product Details** | **Bracelet Builder** |
-| <img src="screenshots/product.png" width="400"> | <img src="screenshots/bracelet-builder.png" width="400"> |
-| **Admin Dashboard** | **Dark Mode** |
-| <img src="screenshots/admin-dashboard.png" width="400"> | <img src="screenshots/dark-mode.png" width="400"> |
-
-</div>
-
----
 
 ## 💫 Features
 
